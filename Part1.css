@@ -1,0 +1,46 @@
+.Home_Refer{
+    font-family: Quicksand,sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+}
+.Home_imgs{
+   height: 330px;
+   text-align: center;
+   width: 100%;
+}
+.Home_imgs1{
+    height: 100%;
+    width: 93%;
+}
+.Home_frame{
+    height: 420px;
+    text-align: center;
+    width: 100%;
+}
+.Add_na{
+    margin: auto;
+    width: 85%;
+}
+.react-slideshow-container{
+    align-items: center;
+    display: flex;
+}
+.react-slideshow-container .default-nav:first-of-type {
+    border-right: 0;
+    border-top: 0;
+    margin-right: -30px;
+}
+.react-slideshow-container .default-nav {
+    align-items: center;
+    background: hsla(0,0%,100%,.6);
+    border: 0;
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    text-align: center;
+    width: 30px;
+}
